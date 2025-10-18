@@ -1,0 +1,9 @@
+ID_ALUNO;NOME;CURSO;SEMESTRE;DATA_MATRICULA;EMAIL
+A001;João Silva;Engenharia Informatica;2024-1;2024-02-05;j.silva@email.com
+A002;Maria Fernandes;Engenharia Informática ;2024-1;2024-02-06;maria_f@email
+A003;Ana Sousa;Engenharia Informatica;2024-1;2024-02-04;ana_sousa@email.com
+A004;Carlos Pinto;Engenharia Mecanica;2024-1;2024-02-08;c.pinto@email.com
+A005;Joao da silva;Engenharia Informatica;2024-1;2024-02-07;joao.silva@email.com
+A006;Rita Santos;Engenharia Mecanica;2024-1;;rita.santos@email.com
+A007;Miguel Costa;Engenharia Informatica;2024-1;2024-02-05;miguel.costa@em@il.com
+A008;Sofia Lopes;Engenharia Informatica;2024-1;2024-02-09;sofia.lopes@email.com

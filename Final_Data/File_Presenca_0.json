@@ -1,0 +1,64 @@
+[ {
+  "DISCIPLINA" : "Programação Web",
+  "AULAS_DADAS" : 30,
+  "AULAS_ASSISTIDAS" : 28,
+  "ID_ALUNO" : "A001",
+  "Log_Erro_Validacao" : "Válido",
+  "prediction" : "Válido"
+}, {
+  "DISCIPLINA" : "Programacao Web",
+  "AULAS_DADAS" : 30,
+  "AULAS_ASSISTIDAS" : 0,
+  "ID_ALUNO" : "A002",
+  "Log_Erro_Validacao" : "Válido",
+  "prediction" : "Válido"
+}, {
+  "DISCIPLINA" : "Programação WEB",
+  "AULAS_DADAS" : 30,
+  "AULAS_ASSISTIDAS" : 25,
+  "ID_ALUNO" : "A003",
+  "Log_Erro_Validacao" : "Válido",
+  "prediction" : "Válido"
+}, {
+  "DISCIPLINA" : "Mecânica I",
+  "AULAS_DADAS" : 28,
+  "AULAS_ASSISTIDAS" : 27,
+  "ID_ALUNO" : "A004",
+  "Log_Erro_Validacao" : "Válido",
+  "prediction" : "Válido"
+}, {
+  "DISCIPLINA" : "Programacao web",
+  "AULAS_DADAS" : 30,
+  "AULAS_ASSISTIDAS" : 30,
+  "ID_ALUNO" : "A005",
+  "Log_Erro_Validacao" : "Válido",
+  "prediction" : "Válido"
+}, {
+  "DISCIPLINA" : "Mecânica I",
+  "AULAS_DADAS" : 28,
+  "AULAS_ASSISTIDAS" : 0,
+  "ID_ALUNO" : "A006",
+  "Log_Erro_Validacao" : "Válido",
+  "prediction" : "Válido"
+}, {
+  "DISCIPLINA" : "Programação Web",
+  "AULAS_DADAS" : 30,
+  "AULAS_ASSISTIDAS" : 10,
+  "ID_ALUNO" : "A007",
+  "Log_Erro_Validacao" : "Válido",
+  "prediction" : "Válido"
+}, {
+  "DISCIPLINA" : "Programação Web",
+  "AULAS_DADAS" : 30,
+  "AULAS_ASSISTIDAS" : 29,
+  "ID_ALUNO" : "A008",
+  "Log_Erro_Validacao" : "Válido",
+  "prediction" : "Válido"
+}, {
+  "DISCIPLINA" : "Programação Web",
+  "AULAS_DADAS" : 30,
+  "AULAS_ASSISTIDAS" : 15,
+  "ID_ALUNO" : "A009",
+  "Log_Erro_Validacao" : "Válido",
+  "prediction" : "Válido"
+} ]

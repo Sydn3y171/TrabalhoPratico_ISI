@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table>
+    <Presenca AULAS_ASSISTIDAS="28" AULAS_DADAS="30" DISCIPLINA="Programação Web" ID_ALUNO="A001" Log_Erro_Validacao="Válido">A001</Presenca>
+    <Presenca AULAS_ASSISTIDAS="0" AULAS_DADAS="30" DISCIPLINA="Programacao Web" ID_ALUNO="A002" Log_Erro_Validacao="Válido">A002</Presenca>
+    <Presenca AULAS_ASSISTIDAS="25" AULAS_DADAS="30" DISCIPLINA="Programação WEB" ID_ALUNO="A003" Log_Erro_Validacao="Válido">A003</Presenca>
+    <Presenca AULAS_ASSISTIDAS="27" AULAS_DADAS="28" DISCIPLINA="Mecânica I" ID_ALUNO="A004" Log_Erro_Validacao="Válido">A004</Presenca>
+    <Presenca AULAS_ASSISTIDAS="30" AULAS_DADAS="30" DISCIPLINA="Programacao web" ID_ALUNO="A005" Log_Erro_Validacao="Válido">A005</Presenca>
+    <Presenca AULAS_ASSISTIDAS="0" AULAS_DADAS="28" DISCIPLINA="Mecânica I" ID_ALUNO="A006" Log_Erro_Validacao="Válido">A006</Presenca>
+    <Presenca AULAS_ASSISTIDAS="10" AULAS_DADAS="30" DISCIPLINA="Programação Web" ID_ALUNO="A007" Log_Erro_Validacao="Válido">A007</Presenca>
+    <Presenca AULAS_ASSISTIDAS="29" AULAS_DADAS="30" DISCIPLINA="Programação Web" ID_ALUNO="A008" Log_Erro_Validacao="Válido">A008</Presenca>
+    <Presenca AULAS_ASSISTIDAS="15" AULAS_DADAS="30" DISCIPLINA="Programação Web" ID_ALUNO="A009" Log_Erro_Validacao="Válido">A009</Presenca>
+</table>

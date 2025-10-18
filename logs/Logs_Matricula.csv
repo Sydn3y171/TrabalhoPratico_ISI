@@ -1,0 +1,7 @@
+"NOME","CURSO","SEMESTRE","DATA_MATRICULA","EMAIL","Log_Erro_Validacao","Status_Validacoes"
+"Maria Fernandes","Engenharia Informática","2024-1","2024-02-06","maria_f@email","Erro: Formato de e-mail inválido.","Inválido"
+"Miguel Costa","Engenharia Informatica","2024-1","2024-02-05","miguel.costa@em@il.com","Erro: Formato de e-mail inválido.","Inválido"
+"NOME","CURSO","SEMESTRE","DATA_MATRICULA","EMAIL","Log_Erro_Validacao","Status_Validacoes"
+"Maria Fernandes","Engenharia Informática","2024-1","2024-02-06","maria_f@email","Erro: Formato de e-mail inválido.","Inválido"
+"Miguel Costa","Engenharia Informatica","2024-1","2024-02-05","miguel.costa@em@il.com","Erro: Formato de e-mail inválido.","Inválido"
+"XML","ID_ALUNO","NOME","CURSO","SEMESTRE","EMAIL","DATA_NASCIMENTO","Log_Erro_Validacao","Status_Validacoes"

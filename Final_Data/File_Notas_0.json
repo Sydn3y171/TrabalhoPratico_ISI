@@ -1,0 +1,55 @@
+[ {
+  "DISCIPLINA" : "Programação Web",
+  "NOTA_FINAL" : 15,
+  "DISCIPLINA_NORMALIZADA" : "PROGRAMACAO WEB",
+  "Log_Erro_Validacao" : "Válido",
+  "Status_Validacoes" : "Válido"
+}, {
+  "DISCIPLINA" : "Programacao web",
+  "NOTA_FINAL" : 10,
+  "DISCIPLINA_NORMALIZADA" : "PROGRAMACAO WEB",
+  "Log_Erro_Validacao" : "Válido",
+  "Status_Validacoes" : "Válido"
+}, {
+  "DISCIPLINA" : "Programação WEB",
+  "NOTA_FINAL" : 5,
+  "DISCIPLINA_NORMALIZADA" : "PROGRAMACAO WEB",
+  "Log_Erro_Validacao" : "Válido",
+  "Status_Validacoes" : "Válido"
+}, {
+  "DISCIPLINA" : "Mecânica I",
+  "NOTA_FINAL" : 13,
+  "DISCIPLINA_NORMALIZADA" : "MECANICA I",
+  "Log_Erro_Validacao" : "Válido",
+  "Status_Validacoes" : "Válido"
+}, {
+  "DISCIPLINA" : "Programação Web",
+  "NOTA_FINAL" : 18,
+  "DISCIPLINA_NORMALIZADA" : "PROGRAMACAO WEB",
+  "Log_Erro_Validacao" : "Válido",
+  "Status_Validacoes" : "Válido"
+}, {
+  "DISCIPLINA" : "Mecanica I",
+  "NOTA_FINAL" : 8,
+  "DISCIPLINA_NORMALIZADA" : "MECANICA I",
+  "Log_Erro_Validacao" : "Válido",
+  "Status_Validacoes" : "Válido"
+}, {
+  "DISCIPLINA" : "Programacao Web",
+  "NOTA_FINAL" : 5,
+  "DISCIPLINA_NORMALIZADA" : "PROGRAMACAO WEB",
+  "Log_Erro_Validacao" : "Válido",
+  "Status_Validacoes" : "Válido"
+}, {
+  "DISCIPLINA" : "Programação Web",
+  "NOTA_FINAL" : 17,
+  "DISCIPLINA_NORMALIZADA" : "PROGRAMACAO WEB",
+  "Log_Erro_Validacao" : "Válido",
+  "Status_Validacoes" : "Válido"
+}, {
+  "DISCIPLINA" : "Programação Web",
+  "NOTA_FINAL" : 12,
+  "DISCIPLINA_NORMALIZADA" : "PROGRAMACAO WEB",
+  "Log_Erro_Validacao" : "Válido",
+  "Status_Validacoes" : "Válido"
+} ]
